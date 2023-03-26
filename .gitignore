@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FahAPIConnector/bin
+/FahAPIConnector/obj
+/LocalAPITest/bin
+/LocalAPITest/obj
+/packages/Newtonsoft.Json.13.0.1
